@@ -21,4 +21,3 @@ My physics teacher doubted my ability to do sports, and then I went up and did a
 
 5. What is a python script? (Keep it simple)
 A python script is the code that performs a set of instructions.
-
