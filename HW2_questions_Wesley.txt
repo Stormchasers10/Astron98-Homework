@@ -1,11 +1,24 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd "your directory"
+-You are moved into this directory
+
+git clone
+-Clones someonelse's git repository onto your local device.
+
+pwd
+-shows the path you are in
+
+The windows terminal runs in Powershell, and git bash runs on bash.
 
 2. Do you have pets? What kind?
+I have two Siamese cats.
 
 3. If you run across an error, what would your first course of action be?
+I would check for squiggly lines displayed by the editor or go to the line that has the error. If I can't see the issue, I would rubber duck the code.
 
 4. Funniest thing that happened to you in high school.
+My physics teacher doubted my ability to do sports, and then I went up and did a handstand as I was a former gymnast, and the class went wild.
 
 5. What is a python script? (Keep it simple)
-
+A python script is the code that performs a set of instructions.
 
